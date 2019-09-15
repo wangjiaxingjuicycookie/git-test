@@ -9,7 +9,7 @@ public class FirstClass {
         System.out.println("hello, git project");
     }
     public static void test(){
-        int i =1;
+        int i =2;
         i += 10;
         System.out.println(i);
     }
